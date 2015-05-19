@@ -1,0 +1,2 @@
+Data Structures: Abstraction and Design Using Java by Koffman and Wolfgang
+Data Structures and Algorithms in Java by Lafore (heapsort 601, binary tree 365, quicksort 333, radix sort 357, shellsort 315, mergesort 379)

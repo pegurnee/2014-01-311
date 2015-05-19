@@ -1,0 +1,4 @@
+                MergeSort       HeapSort      QuickSort
+    ascend     30552000ns      6726000ns     17698000ns
+    random      2032000ns      1749000ns      6106000ns
+   descend       477000ns      1532000ns      4063000ns

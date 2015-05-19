@@ -1,0 +1,4 @@
+                    merge           heap          quick
+    ascend     13983000ns      3691000ns     11988000ns
+    random      1226000ns      1417000ns      3711000ns
+   descend       384000ns       895000ns       854000ns
